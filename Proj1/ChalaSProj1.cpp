@@ -1,7 +1,3 @@
-//  Project description
-//  Your Name
-//  Date starts the project
-
 #include <iostream>
 #include <string>
 #include <cassert>
